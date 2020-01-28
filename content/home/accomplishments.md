@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = "Begun in 2011 with the support of renowned Sales guru Neil Rackham, the SEF Research Grant Program recognizes sales-specific research with the potential for application by sales executives, sales managers, and/or the sales force. A Call for Proposals is announced each January with 2-3 papers selected annually to receive a 5,000 dollar grant by an independent selection committee. To date SEF has awarded over 100,000 dollars in research grants."
 
 [[item]]
-  organization = "Harold and Muriel Berkman Foudnation"
+  organization = "Harold and Muriel Berkman Foundation"
   organization_url = "http://berkmanfoundation.org/"
   title = "Berkman Foundation Grant"
   url = "http://berkmanfoundation.org/scholarships/marketing-scholarship/"
