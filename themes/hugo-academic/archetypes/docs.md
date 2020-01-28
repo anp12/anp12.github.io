@@ -4,8 +4,8 @@
 title: ""
 linktitle: ""
 summary:
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: DateTime<'Y-m-d'>
+lastmod: 2020-01-28
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
