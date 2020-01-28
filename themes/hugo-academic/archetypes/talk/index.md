@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: ""
+title: "{{ replace .Name "-" " " | title }}"
 event:
 event_url:
 location:
