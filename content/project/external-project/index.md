@@ -1,6 +1,6 @@
 ---
 date: "2020-01-25T00:00:00Z"
-external_link: https://flickr.com/photos/186640411@N04/
+external_link: https://flickr.com/photos/alecpappas/
 image:
   caption: Photo by Alec Pappas
   focal_point: Smart
