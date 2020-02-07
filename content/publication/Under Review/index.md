@@ -14,16 +14,16 @@ image:
 #  url: http://example.org
 #projects:
 #- internal-project
-#publication: In *Second Round Revision JAMS*
-#publication_short: In *JAMS*
+publication: In *Third Round Revision JAMS*
+publication_short: In *3rd R&R JAMS*
 # publication_types:
 # - "1"
 #publishDate: "2020"
 #slides: example
-summary: (Second Round Revision in JAMS) The authors take an in depth look at salesperson performance by incorporating practitioner and academic perceptions of salesperson performance. The authors reconcile the two perspectives to better define salesperson performance and provide guidance to scholars regarding the most appropriate salesperson performance operationalization for the research question at hand.
+summary: The authors take an in depth look at salesperson performance by incorporating practitioner and academic perceptions of salesperson performance. The authors reconcile the two perspectives to better define salesperson performance and provide guidance to scholars regarding the most appropriate salesperson performance operationalization for the research question at hand.
 #tags:
 #- Source Themes
-title: Sales Performance Operationalization
+title: Sales Performance Operationalization with Secondary Data
 #url_code: '#'
 #url_dataset: '#'
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
