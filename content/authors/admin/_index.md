@@ -10,7 +10,7 @@ education:
   - course: B.S. Finance and Professional Sales
     institution: Florida State University
     year: 2015
-email: "anp12@fsu.edu"
+email: "apappas@fsu.edu"
 interests:
 - Marketing
 - Sales
