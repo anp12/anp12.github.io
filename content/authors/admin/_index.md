@@ -25,7 +25,7 @@ role: Doctoral Candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:anp12@fsu.edu'
+  link: 'mailto:apappas@fsu.edu'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alecpappas/

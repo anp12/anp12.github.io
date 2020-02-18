@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Salesperson Performance Operationalization"
+title: "Salesperson Performance Operationalization with Secondary Data"
 event: Winter AMA 2020
 event_url: https://www.ama.org/events/conference/2020-ama-winter-academic-conference/
-location:
+location: San Diego, CA
 address:
   street: 901 Bayfront Court
   city: San Diego
@@ -33,7 +33,7 @@ featured: false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Alec presenting at the 2020 Winter AMA in San Diego."
   focal_point: ""
   preview_only: false
 
