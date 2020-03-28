@@ -12,6 +12,7 @@ address:
   postcode: 38655
   country: USA
 summary: The authors explore marketing relationships comparing two methods of analysis to elucidate the meaningful differences that emerge among the different approaches. Managerial implications are discussed and a web application has been developed to increase the availability of this new method (see Strobelight Application at strobelight/shinyapps.io/strobelight/).
+abstract: The authors explore marketing relationships comparing two methods of analysis to elucidate the meaningful differences that emerge among the different approaches. Managerial implications are discussed and a web application has been developed to increase the availability of this new method (see Strobelight Application at strobelight/shinyapps.io/strobelight/).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
