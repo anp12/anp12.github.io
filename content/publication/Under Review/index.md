@@ -14,8 +14,8 @@ image:
 #  url: http://example.org
 #projects:
 #- internal-project
-publication: In *Third Round Revision JAMS*
-publication_short: In *3rd R&R JAMS*
+publication: In *Fourth Round Revision JAMS*
+publication_short: In *4th R&R JAMS*
 # publication_types:
 # - "1"
 #publishDate: "2020"
