@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "University Sales Center Alliance"
+  organization_url = "https://www.universitysalescenteralliance.org/"
+  title = "USCA Research Grant"
+  url = "https://www.linkedin.com/posts/uscaglobal_the-university-sales-center-alliance-usca-activity-6718878008607875072-Fb8R"
+  certificate_url = ""
+  date_start = "2020-10-01"
+  date_end = ""
+  description = "The USCA Research Proposal competition is designed to fund and fuel research efforts in the sales area. Supporting sales research is directly in alignment with the USCA mission, which is focused on advancing the selling profession."
+  
+[[item]]
+  organization = "AMA Sales SIG"
+  organization_url = "https://www.ama.org/about-selling-sales-management-sig/"
+  title = "AMA Sales SIG Global Database"
+  url = "https://www.ama.org/about-selling-sales-management-sig/"
+  certificate_url = ""
+  date_start = "2019-08-01"
+  date_end = ""
+  description = "This grant is established to assist with the development of a global database that will provide access to professional samples of sales managers and sales representatives for academics of all experience levels."
+  
+[[item]]
   organization = "Sales Education Foundation"
   organization_url = "https://salesfoundation.org/"
   title = "Sales Research Grant Program Award"

@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Doctoral Candidate"
   company = "Florida State University"
-  company_url = ""
+  company_url = "https://business.fsu.edu/"
   location = "Florida"
   date_start = "2017-08-01"
   date_end = ""
