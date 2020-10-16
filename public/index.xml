@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Alec Pappas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 03 Apr 2020 15:30:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alec Pappas</title>
@@ -220,9 +220,9 @@ Crash --&amp;gt; [*]
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Do something else&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
 &lt;p&gt;Represent your data in tables:&lt;/p&gt;
@@ -432,7 +432,6 @@ Three
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
@@ -533,7 +532,7 @@ Three
  and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;
