@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Alec Pappas"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "IMG_1761.jpg"
+hero_media = "Alec-13.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.

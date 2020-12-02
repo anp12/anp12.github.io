@@ -1,6 +1,6 @@
 ---
 date: "2020-01-25T00:00:00Z"
-external_link: https://alecpappas.myportfolio.com/
+external_link: https://framingtraditions.com/
 image:
   caption: Photo by Alec Pappas
   focal_point: Smart

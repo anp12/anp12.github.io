@@ -1,12 +1,12 @@
 ---
 authors:
 - admin
-bio: My research interests include B2B marketing strategy and the effects of intraorganizational social networks.
+bio: My research interest is on marketing strategy with an emphasis on the effects of social dynamics (e.g., intraorganizational social networks. social capital, and social influence) on managerially focused outcomes like employee performance and turnover.
 education:
   courses:
   - course: PhD in Marketing
     institution: Florida State University
-    year: 2022
+    year: 2021
   - course: B.S. Finance and Professional Sales
     institution: Florida State University
     year: 2015
@@ -16,6 +16,7 @@ interests:
 - Sales
 - Strategy
 - Intraorganizational Networks
+- Hiking
 - Photography
 name: Alec Pappas
 organizations:
@@ -41,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-Alec Pappas is a doctoral candidate at Florida State University. His research interests include marketing strategy, sales, and intraorganizational social networks. He is currently in his third year of the doctoral program and expects to graduate in the Spring of 2022. Prior to starting the doctoral program, Alec started his career in Philadelphia, Pennsylvania as a mortgage closer at Wells Fargo. He then moved to his hometown in Boca Raton, Florida and worked as an account manager at MotionPoint. At MotionPoint, Alec developed a robust knowledge of website construction and design while he managed relationships of approximately 50 Fortune 1000 companies.
+Alec Pappas is a doctoral candidate at Florida State University. His research interests include marketing strategy, sales, and intraorganizational social networks. He is currently in his third year of the doctoral program and expects to graduate in the Spring of 2021. Prior to starting the doctoral program, Alec started his career in Philadelphia, Pennsylvania as a mortgage closer at Wells Fargo. He then moved to his hometown in Boca Raton, Florida and worked as an account manager at MotionPoint. At MotionPoint, Alec developed a robust knowledge of website construction and design while he managed relationships of approximately 50 Fortune 1000 companies.
 
 In his free time, Alec enjoys photography, reading, coding, and remaining physically active with exercise and sports.
