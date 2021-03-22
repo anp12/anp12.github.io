@@ -24,9 +24,9 @@ summary: The authors take an in depth look at salesperson performance by incorpo
 #tags:
 #- Source Themes
 title: "Operationalizing Salesperson Performance with Secondary Data: Aligning Practice, Scholarship, and Theory"
-#url_code: '#'
+#url_code: 'https://link.springer.com/article/10.1007/s11747-020-00752-0'
 #url_dataset: '#'
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://link.springer.com/article/10.1007/s11747-020-00752-0
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""

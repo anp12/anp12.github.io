@@ -9,16 +9,31 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-09T12:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-09T12:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/under-review/</loc>
+    <loc>/talk/usca/</loc>
+    <lastmod>2021-04-09T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2021-04-09T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ncsm/</loc>
+    <lastmod>2021-04-09T11:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/articles/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,12 +43,7 @@
   </url>
   
   <url>
-    <loc>/talk/sms/</loc>
-    <lastmod>2020-04-03T15:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+    <loc>/talk/sms-ole-miss/</loc>
     <lastmod>2020-04-03T15:30:00+00:00</lastmod>
   </url>
   
@@ -108,7 +118,7 @@
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>/talk/sms-memphis/</loc>
     <lastmod>2019-02-08T09:30:00+00:00</lastmod>
   </url>
   

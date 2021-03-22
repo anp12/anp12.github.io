@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Operationalizing Salesperson Performance with Secondary Data: Aligning Practice, Scholarship, and Theory</title>
-      <link>/publication/under-review/</link>
+      <link>/publication/articles/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/under-review/</guid>
+      <guid>/publication/articles/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Alec Pappas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alec Pappas</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
+      <title>Automated Influence Tactics</title>
+      <link>/talk/usca/</link>
+      <pubDate>Fri, 09 Apr 2021 12:30:00 +0000</pubDate>
+      <guid>/talk/usca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Competitive Path to Cohesion</title>
+      <link>/talk/ncsm/</link>
+      <pubDate>Fri, 09 Apr 2021 11:30:00 +0000</pubDate>
+      <guid>/talk/ncsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Operationalizing Salesperson Performance with Secondary Data: Aligning Practice, Scholarship, and Theory</title>
-      <link>/publication/under-review/</link>
+      <link>/publication/articles/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/under-review/</guid>
+      <guid>/publication/articles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deeper Understanding of Marketing Relationships (Canceled - Coronavirus)</title>
-      <link>/talk/sms/</link>
+      <link>/talk/sms-ole-miss/</link>
       <pubDate>Fri, 03 Apr 2020 15:30:00 +0000</pubDate>
-      <guid>/talk/sms/</guid>
+      <guid>/talk/sms-ole-miss/</guid>
       <description></description>
     </item>
     
@@ -294,9 +310,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>The Competitive Path to Cohesion</title>
-      <link>/talk/example/</link>
+      <link>/talk/sms-memphis/</link>
       <pubDate>Fri, 08 Feb 2019 09:30:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
+      <guid>/talk/sms-memphis/</guid>
       <description></description>
     </item>
     
