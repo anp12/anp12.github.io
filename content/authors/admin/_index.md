@@ -10,7 +10,7 @@ education:
   - course: B.S. Finance and Professional Sales
     institution: Florida State University
     year: 2015
-email: "apappas@fsu.edu"
+email: "alec.pappas@wsu.edu"
 interests:
 - Marketing
 - Sales
@@ -20,13 +20,13 @@ interests:
 - Photography
 name: Alec Pappas
 organizations:
-- name: Florida State University
-  url: "https://business.fsu.edu/"
-role: Doctoral Candidate
+- name: Washington State University
+  url: "https://business.wsu.edu/"
+role: Assistant Professor of Marketing
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:apappas@fsu.edu'
+  link: 'mailto:alec.pappas@wsu.edu'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alecpappas/
@@ -42,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-Alec Pappas is currently a doctoral candidate at Florida State University in Marketing. He will be joining Washington State University in the Fall of 2021 as an Assistant Professor in Marketing. His research interests include marketing strategy, sales, and intraorganizational social networks. He is currently in his third year of the doctoral program and expects to graduate in the Spring of 2021. Prior to starting the doctoral program, Alec started his career in Philadelphia, Pennsylvania as a mortgage closer at Wells Fargo. He then moved to his hometown in Boca Raton, Florida and worked as an account manager at MotionPoint. At MotionPoint, Alec developed a robust knowledge of website construction and design while he managed relationships of approximately 50 Fortune 1000 companies.
+Alec Pappas is an Assistnat Professor of Marketing at Washington State University. His research interests include marketing strategy, sales, and intraorganizational social networks. Alec graduated in 2021 from Florida State University with his PhD in Marketing. Alec started his career in Philadelphia, Pennsylvania as a mortgage closer at Wells Fargo. He then moved to his hometown in Boca Raton, Florida and worked as an account manager at MotionPoint. At MotionPoint, Alec developed a robust knowledge of website construction and design while he managed relationships of approximately 50 Fortune 1000 companies.
 
 In his free time, Alec enjoys photography, reading, coding, and remaining physically active with exercise and sports.

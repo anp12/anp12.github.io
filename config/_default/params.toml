@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "apappas@fsu.edu"
+email = "alec.pappas@wsu.edu"
 phone = "561 319 0383"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -95,11 +95,11 @@ contact_links = [
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "821 Academic Way", city = "Tallahassee", region = "FL", postcode = "32306", country = "United States", country_code = "US"}
+address = {street = "300 NE College Ave", city = "Pullman", region = "WA", postcode = "99163", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.444400", longitude = "-84.295816"}
+coordinates = {latitude = "46.7306344144415", longitude = "-117.16365018465567"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
