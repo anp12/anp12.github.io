@@ -42,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-Alec Pappas is an Assistnat Professor of Marketing at Washington State University. His research interests include marketing strategy, sales, and intraorganizational social networks. Alec graduated in 2021 from Florida State University with his PhD in Marketing. Alec started his career in Philadelphia, Pennsylvania as a mortgage closer at Wells Fargo. He then moved to his hometown in Boca Raton, Florida and worked as an account manager at MotionPoint. At MotionPoint, Alec developed a robust knowledge of website construction and design while he managed relationships of approximately 50 Fortune 1000 companies.
+Alec Pappas is an Assistant Professor of Marketing at Washington State University. His research interests include marketing strategy, sales, and intraorganizational social networks. Alec graduated in 2021 from Florida State University with his PhD in Marketing. Alec started his career in Philadelphia, Pennsylvania as a mortgage closer at Wells Fargo. He then moved to his hometown in Boca Raton, Florida and worked as an account manager at MotionPoint. At MotionPoint, Alec developed a robust knowledge of website construction and design while he managed relationships of approximately 50 Fortune 1000 companies.
 
 In his free time, Alec enjoys photography, reading, coding, and remaining physically active with exercise and sports.
