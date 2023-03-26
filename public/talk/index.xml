@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Alec Pappas</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anp12.github.io/talk/</link>
+      <atom:link href="https://anp12.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Fri, 09 Apr 2021 12:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Fri, 09 Apr 2021 12:30:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://anp12.github.io/talk/</link>
     </image>
     
     <item>
       <title>Automated Influence Tactics</title>
-      <link>/talk/usca/</link>
+      <link>https://anp12.github.io/talk/usca/</link>
       <pubDate>Fri, 09 Apr 2021 12:30:00 +0000</pubDate>
-      <guid>/talk/usca/</guid>
+      <guid>https://anp12.github.io/talk/usca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Competitive Path to Cohesion</title>
-      <link>/talk/ncsm/</link>
+      <link>https://anp12.github.io/talk/ncsm/</link>
       <pubDate>Fri, 09 Apr 2021 11:30:00 +0000</pubDate>
-      <guid>/talk/ncsm/</guid>
+      <guid>https://anp12.github.io/talk/ncsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deeper Understanding of Marketing Relationships (Canceled - Coronavirus)</title>
-      <link>/talk/sms-ole-miss/</link>
+      <link>https://anp12.github.io/talk/sms-ole-miss/</link>
       <pubDate>Fri, 03 Apr 2020 15:30:00 +0000</pubDate>
-      <guid>/talk/sms-ole-miss/</guid>
+      <guid>https://anp12.github.io/talk/sms-ole-miss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Salesperson Performance Operationalization with Secondary Data</title>
-      <link>/talk/ama/</link>
+      <link>https://anp12.github.io/talk/ama/</link>
       <pubDate>Sat, 15 Feb 2020 15:30:00 +0000</pubDate>
-      <guid>/talk/ama/</guid>
+      <guid>https://anp12.github.io/talk/ama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Competitive Path to Cohesion</title>
-      <link>/talk/sms-memphis/</link>
+      <link>https://anp12.github.io/talk/sms-memphis/</link>
       <pubDate>Fri, 08 Feb 2019 09:30:00 +0000</pubDate>
-      <guid>/talk/sms-memphis/</guid>
+      <guid>https://anp12.github.io/talk/sms-memphis/</guid>
       <description></description>
     </item>
     

@@ -2,69 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alec Pappas</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anp12.github.io/</link>
+      <atom:link href="https://anp12.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alec Pappas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Fri, 09 Apr 2021 12:30:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alec Pappas</title>
-      <link>/</link>
+      <link>https://anp12.github.io/</link>
     </image>
     
     <item>
       <title>Automated Influence Tactics</title>
-      <link>/talk/usca/</link>
+      <link>https://anp12.github.io/talk/usca/</link>
       <pubDate>Fri, 09 Apr 2021 12:30:00 +0000</pubDate>
-      <guid>/talk/usca/</guid>
+      <guid>https://anp12.github.io/talk/usca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Competitive Path to Cohesion</title>
-      <link>/talk/ncsm/</link>
+      <link>https://anp12.github.io/talk/ncsm/</link>
       <pubDate>Fri, 09 Apr 2021 11:30:00 +0000</pubDate>
-      <guid>/talk/ncsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Operationalizing Salesperson Performance with Secondary Data: Aligning Practice, Scholarship, and Theory</title>
-      <link>/publication/articles/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/articles/</guid>
+      <guid>https://anp12.github.io/talk/ncsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deeper Understanding of Marketing Relationships (Canceled - Coronavirus)</title>
-      <link>/talk/sms-ole-miss/</link>
+      <link>https://anp12.github.io/talk/sms-ole-miss/</link>
       <pubDate>Fri, 03 Apr 2020 15:30:00 +0000</pubDate>
-      <guid>/talk/sms-ole-miss/</guid>
+      <guid>https://anp12.github.io/talk/sms-ole-miss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Salesperson Performance Operationalization with Secondary Data</title>
-      <link>/talk/ama/</link>
+      <link>https://anp12.github.io/talk/ama/</link>
       <pubDate>Sat, 15 Feb 2020 15:30:00 +0000</pubDate>
-      <guid>/talk/ama/</guid>
+      <guid>https://anp12.github.io/talk/ama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photo Collection</title>
-      <link>/project/external-project/</link>
+      <link>https://anp12.github.io/project/external-project/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>https://anp12.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strobelight Analysis App</title>
-      <link>/project/internal-project/</link>
+      <link>https://anp12.github.io/project/internal-project/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>https://anp12.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -75,9 +67,9 @@
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>/post/writing-technical-content/</link>
+      <link>https://anp12.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/writing-technical-content/</guid>
+      <guid>https://anp12.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -294,9 +286,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
+      <link>https://anp12.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
+      <guid>https://anp12.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -310,17 +302,17 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>The Competitive Path to Cohesion</title>
-      <link>/talk/sms-memphis/</link>
+      <link>https://anp12.github.io/talk/sms-memphis/</link>
       <pubDate>Fri, 08 Feb 2019 09:30:00 +0000</pubDate>
-      <guid>/talk/sms-memphis/</guid>
+      <guid>https://anp12.github.io/talk/sms-memphis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://anp12.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
+      <guid>https://anp12.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -372,9 +364,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://anp12.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://anp12.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;
@@ -510,19 +502,10 @@ Three
     </item>
     
     <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://anp12.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
+      <guid>https://anp12.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt;
@@ -700,9 +683,9 @@ Three
     
     <item>
       <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
+      <link>https://anp12.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>https://anp12.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -720,10 +703,54 @@ Three
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <title>Operationalizing Salesperson Performance with Secondary Data: Aligning Practice, Scholarship, and Theory</title>
+      <link>https://anp12.github.io/publication/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/privacy/</guid>
+      <guid>https://anp12.github.io/publication/articles/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;abstract: Selling is often associated with competitiveness, which has led many scholars to examine trait competitiveness as a driver of salesperson performance. However, it is also suggested that competitiveness contributes to less cohesive work environments which can have adverse effects on firms and their stakeholders. The authors explore this dichotomy by first conducting a field study utilizing multilevel, multisource data acquired from 358 salespeople working at 86 offices of a large company. Using Mplus, the authors employ a 1-2-1 multilevel model to test the effects of trait competitiveness on work group cohesion, along with subsequent effects on sales performance and turnover. Findings reveal a surprising positive relationship between trait competitiveness and work group cohesion, with the latter reducing turnover likelihood. Thus, trait competitiveness has indirect effects, through work group cohesion, in reducing turnover, while having direct and positive effects on sales performance. Results of a follow-up qualitative study reveal that the positive relationship between trait competitiveness and work group cohesion can be attributed to the competitive focus (i.e. interpersonal, intergroup, or intrapersonal) of the individuals within the sales organization. Overall, this work shows that organizations can have both competitive salespeople and cohesive work environments, contributing beneficially toward sales output and turnover.
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin
+date: &amp;ldquo;2023-1-20&amp;rdquo;
+doi: &amp;quot;&amp;rdquo;
+featured: true
+image:
+caption: &#39;&amp;rsquo;
+focal_point: &amp;quot;&amp;rdquo;
+preview_only: false
+#links:
+#- name: Custom Link&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;url-httpexampleorg&#34;&gt;url: &lt;a href=&#34;http://example.org&#34;&gt;http://example.org&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;#projects:
+#- internal-project
+publication: In &lt;em&gt;Journal of Personal Selling and Sales Management&lt;/em&gt;
+publication_short: In &lt;em&gt;JPSSM&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;publication_types&#34;&gt;publication_types:&lt;/h1&gt;
+&lt;h1 id=&#34;--1&#34;&gt;- &amp;ldquo;1&amp;rdquo;&lt;/h1&gt;
+&lt;h2 id=&#34;url_video-&#34;&gt;publishDate: &amp;ldquo;2023-1-20&amp;rdquo;
+#slides: example
+summary: The authors take an in depth look at salesperson performance by incorporating practitioner and academic perceptions of salesperson performance. The authors reconcile the two perspectives to better define salesperson performance and provide guidance to scholars regarding the most appropriate salesperson performance operationalization for the research question at hand.
+#tags:
+#- Source Themes
+title: &amp;ldquo;A Competitive Path to Cohesion: Multilevel Effects of Competitiveness in the Sales Force&amp;rdquo;
+#url_code: &amp;lsquo;&lt;a href=&#34;https://link.springer.com/article/10.1007/s11747-020-00752-0&#39;&#34;&gt;https://link.springer.com/article/10.1007/s11747-020-00752-0&#39;&lt;/a&gt;
+#url_dataset: &amp;lsquo;#&amp;rsquo;
+url_pdf: &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/08853134.2023.2170237&#34;&gt;https://www.tandfonline.com/doi/abs/10.1080/08853134.2023.2170237&lt;/a&gt;
+#url_poster: &amp;lsquo;#&amp;rsquo;
+#url_project: &amp;quot;&amp;rdquo;
+#url_slides: &amp;quot;&amp;rdquo;
+#url_source: &amp;lsquo;#&amp;rsquo;
+#url_video: &amp;lsquo;#&amp;rsquo;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://anp12.github.io/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://anp12.github.io/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
