@@ -5,12 +5,20 @@
     <link>https://anp12.github.io/authors/admin/</link>
       <atom:link href="https://anp12.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alec Pappas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Fri, 09 Apr 2021 12:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Fri, 09 Jun 2023 12:30:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alec Pappas</title>
       <link>https://anp12.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Assessing Relationship Incosistency with a Strobelight Analysis</title>
+      <link>https://anp12.github.io/talk/gssi/</link>
+      <pubDate>Fri, 09 Jun 2023 12:30:00 +0000</pubDate>
+      <guid>https://anp12.github.io/talk/gssi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Influence Tactics</title>
@@ -42,22 +50,6 @@
       <pubDate>Sat, 15 Feb 2020 15:30:00 +0000</pubDate>
       <guid>https://anp12.github.io/talk/ama/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://anp12.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://anp12.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
-.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -299,71 +291,6 @@ date: 2019-09-01
 &lt;p&gt;Released under the 
 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt;
  license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://anp12.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://anp12.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Operationalizing Salesperson Performance with Secondary Data: Aligning Practice, Scholarship, and Theory</title>
-      <link>https://anp12.github.io/publication/articles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anp12.github.io/publication/articles/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;abstract: Selling is often associated with competitiveness, which has led many scholars to examine trait competitiveness as a driver of salesperson performance. However, it is also suggested that competitiveness contributes to less cohesive work environments which can have adverse effects on firms and their stakeholders. The authors explore this dichotomy by first conducting a field study utilizing multilevel, multisource data acquired from 358 salespeople working at 86 offices of a large company. Using Mplus, the authors employ a 1-2-1 multilevel model to test the effects of trait competitiveness on work group cohesion, along with subsequent effects on sales performance and turnover. Findings reveal a surprising positive relationship between trait competitiveness and work group cohesion, with the latter reducing turnover likelihood. Thus, trait competitiveness has indirect effects, through work group cohesion, in reducing turnover, while having direct and positive effects on sales performance. Results of a follow-up qualitative study reveal that the positive relationship between trait competitiveness and work group cohesion can be attributed to the competitive focus (i.e. interpersonal, intergroup, or intrapersonal) of the individuals within the sales organization. Overall, this work shows that organizations can have both competitive salespeople and cohesive work environments, contributing beneficially toward sales output and turnover.
-authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin
-date: &amp;ldquo;2023-1-20&amp;rdquo;
-doi: &amp;quot;&amp;rdquo;
-featured: true
-image:
-caption: &#39;&amp;rsquo;
-focal_point: &amp;quot;&amp;rdquo;
-preview_only: false
-#links:
-#- name: Custom Link&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;url-httpexampleorg&#34;&gt;url: &lt;a href=&#34;http://example.org&#34;&gt;http://example.org&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;#projects:
-#- internal-project
-publication: In &lt;em&gt;Journal of Personal Selling and Sales Management&lt;/em&gt;
-publication_short: In &lt;em&gt;JPSSM&lt;/em&gt;&lt;/p&gt;
-&lt;h1 id=&#34;publication_types&#34;&gt;publication_types:&lt;/h1&gt;
-&lt;h1 id=&#34;--1&#34;&gt;- &amp;ldquo;1&amp;rdquo;&lt;/h1&gt;
-&lt;h2 id=&#34;url_video-&#34;&gt;publishDate: &amp;ldquo;2023-1-20&amp;rdquo;
-#slides: example
-summary: The authors take an in depth look at salesperson performance by incorporating practitioner and academic perceptions of salesperson performance. The authors reconcile the two perspectives to better define salesperson performance and provide guidance to scholars regarding the most appropriate salesperson performance operationalization for the research question at hand.
-#tags:
-#- Source Themes
-title: &amp;ldquo;A Competitive Path to Cohesion: Multilevel Effects of Competitiveness in the Sales Force&amp;rdquo;
-#url_code: &amp;lsquo;&lt;a href=&#34;https://link.springer.com/article/10.1007/s11747-020-00752-0&#39;&#34;&gt;https://link.springer.com/article/10.1007/s11747-020-00752-0&#39;&lt;/a&gt;
-#url_dataset: &amp;lsquo;#&amp;rsquo;
-url_pdf: &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/08853134.2023.2170237&#34;&gt;https://www.tandfonline.com/doi/abs/10.1080/08853134.2023.2170237&lt;/a&gt;
-#url_poster: &amp;lsquo;#&amp;rsquo;
-#url_project: &amp;quot;&amp;rdquo;
-#url_slides: &amp;quot;&amp;rdquo;
-#url_source: &amp;lsquo;#&amp;rsquo;
-#url_video: &amp;lsquo;#&amp;rsquo;&lt;/h2&gt;
 </description>
     </item>
     
