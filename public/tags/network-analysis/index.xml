@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Analysis | Alec Pappas</title>
+    <link>https://anp12.github.io/tags/network-analysis/</link>
+      <atom:link href="https://anp12.github.io/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Network Analysis</title>
+      <link>https://anp12.github.io/tags/network-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Network Analysis App</title>
+      <link>https://anp12.github.io/project/networkanalysis/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://anp12.github.io/project/networkanalysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
