@@ -26,8 +26,8 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Quantile Regression"
-    tag = "Quantile Regression"
+    name = "Data Applications"
+    tag = "Data Application"
   
   [[content.filter_button]]
     name = "Photo Collection"

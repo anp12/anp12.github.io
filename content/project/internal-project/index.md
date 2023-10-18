@@ -12,7 +12,7 @@ links:
 slides: example
 summary: This is a web application built using Shiny in R that allows users to run and download quantile regression analyses without coding.
 tags:
-- Quantile Regression
+- Data Application
 title: Strobelight Analysis App
 url_code: ""
 url_pdf: ""

@@ -12,7 +12,7 @@ links:
 slides: example
 summary: This is a web application built using Shiny in R that allows users to run and download network analysis outputs without coding.
 tags:
-- Network Analysis
+- Data Application
 title: Network Analysis App
 url_code: ""
 url_pdf: ""

@@ -12,7 +12,7 @@ links:
 slides: example
 summary: This is a web application built using Shiny in R that allows users to assess and run generalized linear models that assess the appropriate distribution for the given data.
 tags:
-- Relationship Operationalization
+- Data Application
 title: Relationship Operationalization App
 url_code: ""
 url_pdf: ""
