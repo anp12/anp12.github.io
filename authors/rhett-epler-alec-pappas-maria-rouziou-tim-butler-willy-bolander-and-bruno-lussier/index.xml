@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rhett Epler, Alec Pappas, Maria Rouziou, Tim Butler, Willy Bolander, and Bruno Lussier | Alec Pappas</title>
+    <link>https://anp12.github.io/authors/rhett-epler-alec-pappas-maria-rouziou-tim-butler-willy-bolander-and-bruno-lussier/</link>
+      <atom:link href="https://anp12.github.io/authors/rhett-epler-alec-pappas-maria-rouziou-tim-butler-willy-bolander-and-bruno-lussier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rhett Epler, Alec Pappas, Maria Rouziou, Tim Butler, Willy Bolander, and Bruno Lussier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rhett Epler, Alec Pappas, Maria Rouziou, Tim Butler, Willy Bolander, and Bruno Lussier</title>
+      <link>https://anp12.github.io/authors/rhett-epler-alec-pappas-maria-rouziou-tim-butler-willy-bolander-and-bruno-lussier/</link>
+    </image>
+    
+    <item>
+      <title>Charting the Course: A Framework for Networking across the Selling Ecosystem</title>
+      <link>https://anp12.github.io/publication/ejm/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://anp12.github.io/publication/ejm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
