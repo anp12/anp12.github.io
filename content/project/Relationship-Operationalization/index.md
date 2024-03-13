@@ -1,6 +1,6 @@
 ---
 date: "2023-10-16T00:00:00Z"
-external_link: "https://pappas.shinyapps.io/relationshipoperationalization/"
+external_link: "https://watercooler.shinyapps.io/relationshipoperationalization/"
 image:
   caption: 
   focal_point: Smart
