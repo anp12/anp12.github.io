@@ -4,13 +4,13 @@ authors:
 bio: My research interest is on marketing strategy with an emphasis on the effects of social dynamics (e.g., intraorganizational social networks. social capital, and social influence) on managerially focused outcomes like employee performance and turnover.
 education:
   courses:
-  - course: PhD in Marketing
+  - course: PhD in Business Administration (Marketing)
     institution: Florida State University
     year: 2021
   - course: B.S. Finance and Professional Sales
     institution: Florida State University
     year: 2015
-email: "alec.pappas@wsu.edu"
+email: "pappas5@clemson.edu"
 interests:
 - Marketing
 - Sales
@@ -20,13 +20,13 @@ interests:
 - Photography
 name: Alec Pappas
 organizations:
-- name: Washington State University
-  url: "https://business.wsu.edu/"
+- name: Clemson University
+  url: "https://www.clemson.edu/business/index.html"
 role: Assistant Professor of Marketing
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alec.pappas@wsu.edu'
+  link: 'mailto:pappas5@clemson.edu'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alecpappas/
@@ -42,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-Alec Pappas is an Assistant Professor of Marketing at Washington State University. His research interests include marketing strategy, sales, and intraorganizational social networks. Alec graduated in 2021 from Florida State University with his PhD in Marketing. Alec started his career in Philadelphia, Pennsylvania as a mortgage closer at Wells Fargo. He then moved to his hometown in Boca Raton, Florida and worked as an account manager at MotionPoint. At MotionPoint, Alec developed a robust knowledge of website construction and design while he managed relationships of approximately 50 Fortune 1000 companies.
+Alec Pappas is an Assistant Professor of Marketing at Clemson University. His research interests include marketing strategy, sales, and intraorganizational social networks. Alec graduated in 2021 from Florida State University with his PhD in Marketing and began his academic career at Washington State University. Prior to academia, Alec worked in Philadelphia, Pennsylvania as a mortgage closer at Wells Fargo. He then moved to his hometown in Boca Raton, Florida and worked as an account manager at MotionPoint. At MotionPoint, Alec developed a robust knowledge of website construction and design while he managed relationships of approximately 50 Fortune 1000 companies.
 
 In his free time, Alec enjoys photography, reading, coding, and remaining physically active with exercise and sports.
