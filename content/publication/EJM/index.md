@@ -41,9 +41,6 @@ url_pdf: ""
 
 # Custom links (optional)
 
-# Digital Object Identifier (DOI)
-doi: ""
-
 # Bibliographic citation (optional)
 
 # Toggle Featured status (optional)

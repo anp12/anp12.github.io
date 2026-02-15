@@ -39,7 +39,7 @@
       {{/* Parse default filter tag from front matter in the form of either tag name or CSS class name. */}}
       {{ $default_filter_tag_raw := (index $st.Params.content.filter_button ($filter_default)).tag }}
       {{ $default_filter_tag := printf ".js-id-%s" (replace $default_filter_tag_raw " " "-") }}
-      {{ if or (eq (substr $default_filter_tag_raw 0 1) "*") (eq (substr $default_filter_tag_raw 0 1) ".") }}
+      {{ if or (hasPrefix $default_filter_tag_raw "*") (hasPrefix $default_filter_tag_raw ".") }}
         {{ $default_filter_tag = $default_filter_tag_raw }}
       {{ end }}
 
@@ -54,7 +54,7 @@
               {{ range $idx, $item := $st.Params.content.filter_button }}
                 {{/* Parse filter tag from front matter in the form of either tag name or CSS class name. */}}
                 {{ $data_filter := printf ".js-id-%s" (replace .tag " " "-") }}
-                {{ if or (eq (substr .tag 0 1) "*") (eq (substr .tag 0 1) ".") }}
+                {{ if or (hasPrefix .tag "*") (hasPrefix .tag ".") }}
                   {{ $data_filter = .tag }}
                 {{ end }}
                 <a href="#" data-filter="{{ $data_filter | safeHTMLAttr }}" class="btn btn-primary btn-lg{{ if eq $idx $filter_default }} active{{ end }}">{{ .name }}</a>

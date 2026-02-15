@@ -5,12 +5,22 @@
     <link>https://anp12.github.io/authors/admin/</link>
       <atom:link href="https://anp12.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alec Pappas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2024</copyright><lastBuildDate>Thu, 14 Sep 2023 15:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2026</copyright><lastBuildDate>Thu, 14 Sep 2023 15:30:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alec Pappas</title>
       <link>https://anp12.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://anp12.github.io/authors/admin/</link>
+      <pubDate>Thu, 14 Sep 2023 15:30:00 +0000</pubDate>
+      <guid>https://anp12.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Alec Pappas is an Assistant Professor of Marketing at Clemson University. His research interests include marketing strategy, sales, and intraorganizational social networks. Alec graduated in 2021 from Florida State University with his PhD in Marketing and began his academic career at Washington State University. Prior to academia, Alec worked in Philadelphia, Pennsylvania as a mortgage closer at Wells Fargo. He then moved to his hometown in Boca Raton, Florida and worked as an account manager at MotionPoint. At MotionPoint, Alec developed a robust knowledge of website construction and design while he managed relationships of approximately 50 Fortune 1000 companies.&lt;/p&gt;
+&lt;p&gt;In his free time, Alec enjoys photography, reading, coding, and remaining physically active with exercise and sports.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Future of the Retail Salesperson</title>
@@ -76,7 +86,7 @@
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://anp12.github.io/post/jupyter/index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!
@@ -118,7 +128,9 @@ date: 2019-09-01
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -161,7 +173,7 @@ date: 2019-09-01
  and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;&amp;#x2764;&amp;#xfe0f; &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;
@@ -175,7 +187,7 @@ date: 2019-09-01
 &lt;li&gt;👕 
 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;👩‍💻 
+&lt;li&gt;&amp;#x1f469;&amp;zwj;&amp;#x1f4bb; 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

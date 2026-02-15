@@ -46,7 +46,7 @@
   {{ end }}
 
   {{/* Show Disqus comment count if enabled. */}}
-  {{ $disqus_enabled := eq site.Params.comments.engine 1 | and (index site.Params.comments.commentable $page.Type) | and (ne $page.Params.commentable false) | or $page.Params.commentable }}
+  {{ $disqus_enabled := or $page.Params.commentable (and (eq site.Params.comments.engine 1) (index site.Params.comments.commentable $page.Type) (ne $page.Params.commentable false)) }}
   {{ if and $disqus_enabled (site.Params.comments.disqus.show_count | default true) }}
   <span class="middot-divider"></span>
   <a href="{{ $page.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>

@@ -1,4 +1,4 @@
-{{ if site.Params.comments.engine | and (index site.Params.comments.commentable .Type) | and (ne .Params.commentable false) | or .Params.commentable }}
+{{ if or .Params.commentable (and site.Params.comments.engine (index site.Params.comments.commentable .Type) (ne .Params.commentable false)) }}
 <section id="comments">
   {{ if eq site.Params.comments.engine 1 }}
     {{ partial "comments/disqus.html" . }}

@@ -42,9 +42,6 @@ url_pdf: 'https://link.springer.com/article/10.1007/s11747-020-00752-0'
 
 # Custom links (optional)
 
-# Digital Object Identifier (DOI)
-doi: "10.1007/s11747-020-00752-0"
-
 # Bibliographic citation (optional)
 citation: "Bolander, W., Chaker, N.N., Pappas, A. et al. Operationalizing salesperson performance with secondary data: aligning practice, scholarship, and theory. J. of the Acad. Mark. Sci. 49, 462–481 (2021). https://doi.org/10.1007/s11747-020-00752-0"
 

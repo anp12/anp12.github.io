@@ -6,7 +6,7 @@
   "name": {{site.Params.org_name | default site.Title}},
   {{with site.Params.logo}}"logo": {{printf "img/%s" . | absURL}},{{end}}
   {{with site.Params.sharing_image}}"image": {{printf "img/%s" . | absURL}},{{end}}
-  {{ if (eq site.Params.site_type "LocalBusiness") | and site.Params.coordinates }}
+  {{ if and (eq site.Params.site_type "LocalBusiness") site.Params.coordinates }}
   "geo": {
     "@type": "GeoCoordinates",
     "latitude": {{site.Params.coordinates.latitude}},

@@ -11,11 +11,11 @@
 {{ $address_display := slice }}
 
 {{ range $k, $v := $format.order }}
-  {{ if eq $v "street" | and $address.street }}{{$address_display = $address_display | append $address.street | append (index $format.delimiters $k | default "") }}{{end}}
-  {{ if eq $v "city" | and $address.city }}{{$address_display = $address_display | append $address.city | append (index $format.delimiters $k | default "") }}{{end}}
-  {{ if eq $v "region" | and $address.region }}{{$address_display = $address_display | append $address.region | append (index $format.delimiters $k | default "") }}{{end}}
-  {{ if eq $v "postcode" | and $address.postcode }}{{$address_display = $address_display | append $address.postcode | append (index $format.delimiters $k | default "") }}{{end}}
-  {{ if eq $v "country" | and $address.country }}{{$address_display = $address_display | append $address.country | append (index $format.delimiters $k | default "") }}{{end}}
+  {{ if and (eq $v "street") $address.street }}{{$address_display = $address_display | append $address.street | append (index $format.delimiters $k | default "") }}{{end}}
+  {{ if and (eq $v "city") $address.city }}{{$address_display = $address_display | append $address.city | append (index $format.delimiters $k | default "") }}{{end}}
+  {{ if and (eq $v "region") $address.region }}{{$address_display = $address_display | append $address.region | append (index $format.delimiters $k | default "") }}{{end}}
+  {{ if and (eq $v "postcode") $address.postcode }}{{$address_display = $address_display | append $address.postcode | append (index $format.delimiters $k | default "") }}{{end}}
+  {{ if and (eq $v "country") $address.country }}{{$address_display = $address_display | append $address.country | append (index $format.delimiters $k | default "") }}{{end}}
 {{end}}
 
 {{ return (delimit $address_display "") }}

@@ -64,7 +64,7 @@
       {{ end }}
 
       {{ $addr_formatted := "" }}{{/* Scoping for maps. */}}
-      {{ if $data.address.street | or $data.address.city | or $data.address.region | or $data.address.postcode | or $data.address.country }}
+      {{ if or $data.address.street $data.address.city $data.address.region $data.address.postcode $data.address.country }}
         {{ $addr_formatted = partial "functions/get_address" (dict "root" . "address" $data.address) }}
         <li>
           <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>

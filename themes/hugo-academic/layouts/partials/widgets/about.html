@@ -1,12 +1,7 @@
 {{ $ := .root }}
 {{ $page := .page }}
 
-{{ $author := "" }}
-{{ if .author }}
-  {{ $author = .author }}
-{{ else }}
-  {{ $author = $page.Params.author }}
-{{end}}
+{{ $author := $page.Params.author | default "" }}
 
 {{ $person_page_path := (printf "/authors/%s" (anchorize $author)) }}
 {{ $person_page := site.GetPage $person_page_path }}

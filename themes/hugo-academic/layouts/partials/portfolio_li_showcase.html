@@ -2,7 +2,7 @@
 {{ $widget := .widget }}
 
 {{ $do_link := true }}
-{{ if $item.Params.external_link | or $item.Content }}
+{{ if or $item.Params.external_link $item.Content }}
   {{ $do_link = true }}
 {{ else }}
   {{ $do_link = false }}

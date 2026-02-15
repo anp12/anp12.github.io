@@ -42,9 +42,6 @@ url_pdf: 'https://www.tandfonline.com/doi/abs/10.1080/08853134.2023.2170237'
 
 # Custom links (optional)
 
-# Digital Object Identifier (DOI)
-doi: "10.1007/s11747-020-00752-0"
-
 # Bibliographic citation (optional)
 
 # Toggle Featured status (optional)

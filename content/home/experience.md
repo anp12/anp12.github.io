@@ -19,14 +19,31 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Assistant Professor of Marketing"
+  company = "Clemson University"
+  company_url = "https://www.clemson.edu/business/"
+  location = "South Carolina"
+  date_start = "2024-08-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+
+  * Research
+  * Analyzing
+  * Writing
+  * Teaching
+  * Sales Program Development
+  """
+
+[[experience]]
+  title = "Assistant Professor of Marketing"
   company = "Washington State University"
   company_url = "https://business.wsu.edu/"
   location = "Washington"
   date_start = "2021-08-16"
-  date_end = ""
+  date_end = "2024-07-31"
   description = """
   Responsibilities include:
-  
+
   * Research
   * Analyzing
   * Writing

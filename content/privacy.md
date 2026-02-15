@@ -1,6 +1,6 @@
 ---
 commentable: false
-date: "2020"
+date: "2020-01-01"
 draft: false
 editable: false
 header:

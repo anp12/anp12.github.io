@@ -36,7 +36,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://strobelight.shinyapps.io/strobelight/
-superuser: false
+superuser: true
 user_groups:
 - Researchers
 - Visitors

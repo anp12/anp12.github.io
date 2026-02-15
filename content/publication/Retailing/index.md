@@ -41,9 +41,6 @@ url_pdf: ""
 
 # Custom links (optional)
 
-# Digital Object Identifier (DOI)
-doi: "https://doi.org/10.1016/j.jretai.2023.10.004"
-
 # Bibliographic citation (optional)
 
 # Toggle Featured status (optional)

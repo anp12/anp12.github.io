@@ -12,7 +12,7 @@
   {{ $video = $video | relURL }}
 {{ end }}
 
-{{ $poster := printf "%s%s%s" $path (substr (.Get "src") 0 -4) ".jpg" }}
+{{ $poster := printf "%s%s.jpg" $path (strings.TrimSuffix (path.Ext (.Get "src")) (.Get "src")) }}
 {{ $has_poster := fileExists (printf "%s%s" $root_dir $poster) }}
 {{ if and $has_poster (.Get "library") }}
   {{ $poster = $poster | relURL }}

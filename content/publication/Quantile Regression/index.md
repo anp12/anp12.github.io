@@ -42,9 +42,6 @@ url_pdf: 'https://link.springer.com/article/10.1007/s11747-023-00940-8'
 
 # Custom links (optional)
 
-# Digital Object Identifier (DOI)
-doi: "10.1007/s11747-023-00940-8"
-
 # Bibliographic citation (optional)
 
 # Toggle Featured status (optional)

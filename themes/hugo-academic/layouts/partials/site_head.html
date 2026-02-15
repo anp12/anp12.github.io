@@ -103,7 +103,7 @@
       {{ $load := $v.async }}
 
       {{/* Only load MathJax if required. */}}
-      {{ if (eq $k "mathJax") | and (not (or $.Params.math site.Params.math)) }}
+      {{ if and (eq $k "mathJax") (not (or $.Params.math site.Params.math)) }}
         {{ $load = false }}
       {{end}}
 

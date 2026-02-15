@@ -15,9 +15,13 @@
   
   
   
+    
+    
+    
+  
   
 
-  
+  <meta name="author" content="Alec Pappas">
 
   
   
@@ -27,7 +31,9 @@
   <meta name="description" content="Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.
 On this page, you&rsquo;ll find some examples of the types of technical content that can be rendered with Academic.
-Examples Code Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the highlight option in your config/_default/params.">
+Examples
+Code
+Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the highlight option in your config/_default/params.toml file.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://anp12.github.io/post/writing-technical-content/">
@@ -214,8 +220,8 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu_c09f8cd51ec694d7.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu_e02b6c0ce654e71c.png">
 
   <link rel="canonical" href="https://anp12.github.io/post/writing-technical-content/">
 
@@ -235,7 +241,9 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
   <meta property="og:description" content="Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.
 On this page, you&rsquo;ll find some examples of the types of technical content that can be rendered with Academic.
-Examples Code Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the highlight option in your config/_default/params."><meta property="og:image" content="https://anp12.github.io/post/writing-technical-content/featured.jpg">
+Examples
+Code
+Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the highlight option in your config/_default/params.toml file."><meta property="og:image" content="https://anp12.github.io/post/writing-technical-content/featured.jpg">
   <meta property="twitter:image" content="https://anp12.github.io/post/writing-technical-content/featured.jpg"><meta property="og:locale" content="en-us">
   
     
@@ -291,7 +299,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
       "url": "img/https://anp12.github.io/"
     }
   },
-  "description": "Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.\nHighlight your code snippets, take notes on math classes, and draw diagrams from textual representation.\nOn this page, you\u0026rsquo;ll find some examples of the types of technical content that can be rendered with Academic.\nExamples Code Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the highlight option in your config/_default/params."
+  "description": "\u003cp\u003eAcademic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eHighlight your code snippets, take notes on math classes, and draw diagrams from textual representation.\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eOn this page, you\u0026rsquo;ll find some examples of the types of technical content that can be rendered with Academic.\u003c/p\u003e\n\u003ch2 id=\"examples\"\u003eExamples\u003c/h2\u003e\n\u003ch3 id=\"code\"\u003eCode\u003c/h3\u003e\n\u003cp\u003eAcademic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the \u003ccode\u003ehighlight\u003c/code\u003e option in your \u003ccode\u003econfig/_default/params.toml\u003c/code\u003e file.\u003c/p\u003e"
 }
 </script>
 
@@ -668,7 +676,8 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
 <div class="article-header container-fluid featured-image-wrapper mt-4 mb-4" style="max-width: 2000px; max-height: 1333px;">
   <div style="position: relative">
     <img src="/post/writing-technical-content/featured.jpg" alt="" class="featured-image">
-    <span class="article-header-caption">Image credit: <a href="https://unsplash.com/photos/OGZtQF8iC0g"><strong>John Moeses Bauan</strong></a></span>
+    <span class="article-header-caption">Image credit: 
+<a href="https://unsplash.com/photos/OGZtQF8iC0g" target="_blank" rel="noopener"><strong>John Moeses Bauan</strong></a></span>
   </div>
 </div>
 
@@ -704,14 +713,14 @@ data.head()
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 </code></pre>
 <p>renders as</p>
-<p>$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$</p>
+<p>$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}<em>{n}) - \nabla F(\mathbf{x}</em>{n-1}) \right |^2}$$</p>
 <p>Example <strong>inline math</strong> <code>$\nabla F(\mathbf{x}_{n})$</code> renders as $\nabla F(\mathbf{x}_{n})$.</p>
 <p>Example <strong>multi-line math</strong> using the <code>\\</code> math linebreak:</p>
 <pre><code class="language-tex">$$f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\
 1-p_0^* &amp; \text {if }k=0.\end{cases}$$
 </code></pre>
 <p>renders as</p>
-<p>$$f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \<br>
+<p>$$f(k;p_0^<em>) = \begin{cases} p_0^</em> &amp; \text{if }k=1, \
 1-p_0^* &amp; \text {if }k=0.\end{cases}$$</p>
 <h3 id="diagrams">Diagrams</h3>
 <p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the <code>diagram</code> option in your <code>config/_default/params.toml</code> file or by adding <code>diagram: true</code> to your page front matter.</p>
@@ -856,22 +865,22 @@ Crash --&gt; [*]
 </code></pre>
 <p>renders as</p>
 <table>
-<thead>
-<tr>
-<th>First Header</th>
-<th>Second Header</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>First Header</th>
+          <th>Second Header</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Content Cell</td>
+          <td>Content Cell</td>
+      </tr>
+      <tr>
+          <td>Content Cell</td>
+          <td>Content Cell</td>
+      </tr>
+  </tbody>
 </table>
 <h3 id="asides">Asides</h3>
 <p>Academic supports a 
@@ -995,8 +1004,6 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 
 
   
-  
-  
 
 
 
@@ -1115,7 +1122,7 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     
     
-    <script src="/js/academic.min.c4716762638572b143da1c828c87dcd8.js"></script>
+    <script src="/js/academic.min.fe591ec064e6cefdcd8caf20508d1976.js"></script>
 
     
 
@@ -1138,7 +1145,7 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
   
 
   <p class="powered-by">
-    ©2024 &middot; 
+    ©2026 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

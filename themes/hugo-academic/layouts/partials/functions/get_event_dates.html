@@ -8,7 +8,7 @@
   {{ $str = $str | append "&mdash;" }}
   {{ $t2 := time .Params.date_end}}{{/* End datetime. */}}
   {{/* Show end date if it differs to start date. */}}
-  {{ if not (eq $t1.Year $t2.Year | and (eq $t1.Month $t2.Month) | and (eq $t1.Day $t2.Day)) }}
+  {{ if not (and (eq $t1.Year $t2.Year) (eq $t1.Month $t2.Month) (eq $t1.Day $t2.Day)) }}
     {{ $str = $str | append ((time $t2).Format site.Params.date_format) }}
   {{ end }}
   {{/* Show end time if not all day event. */}}

@@ -70,7 +70,7 @@
         {{/* Set target for link. */}}
         {{ $.Scratch.Set "target" "" }}
         {{ if gt (len .URL) 4 }}
-          {{ if eq "http" (slicestr .URL 0 4) }}
+          {{ if hasPrefix .URL "http" }}
             {{ $.Scratch.Set "target" " target=\"_blank\" rel=\"noopener\"" }}
           {{ end }}
         {{ end }}
@@ -98,7 +98,7 @@
         {{ end }}
         {{ end }}
 
-      {{ if site.Menus.main_right | and (eq $align_menu "l") }}
+      {{ if and site.Menus.main_right (eq $align_menu "l") }}
       </ul>
       <ul class="navbar-nav ml-md-auto">
       {{ end }}
@@ -108,7 +108,7 @@
         {{/* Set target for link. */}}
         {{ $.Scratch.Set "target" "" }}
         {{ if gt (len .URL) 4 }}
-        {{ if eq "http" (slicestr .URL 0 4) }}
+        {{ if hasPrefix .URL "http" }}
         {{ $.Scratch.Set "target" " target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
         {{ end }}

@@ -41,7 +41,7 @@
   {{/* Set image path. */}}
   {{ $.Scratch.Set "src" .image }}
   {{ if gt (len .image) 4 }}
-    {{ if ne "http" (slicestr .image 0 4) }}
+    {{ if not (hasPrefix .image "http") }}
       {{ $.Scratch.Set "src" (printf "img/%s" .image | relURL) }}
     {{ end }}
   {{ end }}
